@@ -1,0 +1,110 @@
+repo_name: 2lambda123/datawave-metrics-reporter
+report_id: 4f7aafdc530ad488eeda76bea246c402
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-09T06:52:47+00:00'
+requested_by: 2lambda123
+provider: github
+branch: main
+detected_tools_count: 8
+tools:
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/2lambda123/datawave-metrics-reporter
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/datawave-metrics-reporter
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/2lambda123/datawave-metrics-reporter/blob/main/.github/workflows/tests.yaml
+  detection_source: ".github/workflows/tests.yaml"
+  last_updated_by: Whitney O'Meara
+  last_updated_on: 2023-10-13 13:27:20.000000000 Z
+- name: StatsD
+  description: Simple daemon for easy stats aggregation
+  website_url: https://github.com/etsy/statsd/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Monitoring Tools
+  image_url: https://img.stackshare.io/service/932/default_b8c7d49298132d46fbef113905bcba1896158113.png
+  detection_source_url: https://github.com/2lambda123/datawave-metrics-reporter/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Brian Loss
+  last_updated_on: 2018-07-18 13:39:09.000000000 Z
+- name: com.timgroup:java-statsd-client
+  description: A tiny library allowing Java applications to communicate with statsd
+    instances easily
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/datawave-metrics-reporter/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-12-14 18:32:38.000000000 Z
+- name: commons-io:commons-io
+  description: The Apache Commons IO library contains utility classes
+  version: '2.7'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/datawave-metrics-reporter/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-12-14 18:32:38.000000000 Z
+- name: io.dropwizard.metrics:metrics-core
+  description: Metrics is a Java library which gives you unparalleled insight into
+    what your code does in production
+  version: 4.1.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/datawave-metrics-reporter/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Brian Loss
+  last_updated_on: 2019-12-12 17:34:37.000000000 Z
+- name: org.apache.httpcomponents:httpclient
+  description: Apache HttpComponents Client
+  version: 4.5.13
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/datawave-metrics-reporter/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-12-14 18:32:38.000000000 Z
