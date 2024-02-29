@@ -3,9 +3,9 @@
 ## Tech Stack
 2lambda123/datawave-metrics-reporter is built on the following main stack:
 
-- [StatsD](https://github.com/etsy/statsd/) – Monitoring Tools
 - [Java](https://www.java.com) – Languages
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [StatsD](https://github.com/etsy/statsd/) – Monitoring Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -15,9 +15,9 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/datawave-metrics-reporter is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/932/default_b8c7d49298132d46fbef113905bcba1896158113.png' alt='StatsD'/> [StatsD](https://github.com/etsy/statsd/) – Monitoring Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/932/default_b8c7d49298132d46fbef113905bcba1896158113.png' alt='StatsD'/> [StatsD](https://github.com/etsy/statsd/) – Monitoring Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/datawave-metrics-reporter](https://github.com/2lambda123/datawave-metrics-reporter)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|8<br/>Tools used|01/09/24 <br/>Report generated|
+|8<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
